@@ -187,13 +187,13 @@ font-family: 'Varela Round', sans-serif;
 
 /********* footar***********/
 .bottom-container{
-    background-color:  #fff;
+    background-color:  #rgb(201, 247, 250);
     position: relative;
     padding: 50px;
     text-align: center;
 }
 .footer-link{
-    color: #fc1e9ffd;
+    color: #000000fd;
     margin: 10px;
 }
 /********** middle *********/
